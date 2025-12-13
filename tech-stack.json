@@ -1,0 +1,3 @@
+{
+    "tech stack": ["SQLite3", "Sinatra", "ActiveRecord", "sinatra-activerecord", "Thin (web server)", "React.js"]
+}
