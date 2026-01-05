@@ -1,0 +1,9 @@
+{
+    "tech stack": ["SQLite3", "Sinatra", "ActiveRecord", "sinatra-activerecord", "Thin (web server)", "React.js"],
+    "highlights": [
+        "Built a full-stack todo management application using Sinatra and ActiveRecord, exposing a RESTful JSON API consumed by a React frontend for task creation, updates, and filtering.",
+        "Designed relational data models and associations (users, todos, categories, statuses) with ActiveRecord to enforce data integrity and consistent task ownership.",
+        "Applied backend security controls including input validation, password constraints, CORS configuration, and parameterized queries to reduce common web application risks.",
+        "Integrated a responsive React and Bootstrap UI to visualize task status, progress, and time-based filters while keeping business logic isolated in the API layer."
+    ]
+}
